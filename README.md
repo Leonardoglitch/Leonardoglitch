@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Oi, eu sou o Leonardo Carvalho 👋</h1>
+  <h1>Olá, eu sou o Leonardo Carvalho 👋</h1>
   <p><strong> Student of Software Engineering | TypeScript, Node.js & Security Guardrails</strong></p>
 
   <p>
