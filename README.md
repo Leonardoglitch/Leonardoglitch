@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi, I'm Leonardo Carvalho 👋</h1>
-  <p><strong>Software Engineer | TypeScript, Node.js, Python & Security Guardrails</strong></p>
+  <p><strong>Student Software Engineer | TypeScript, Node.js, Python & Security Guardrails</strong></p>
 
   <p>
     Passionate about building <strong>high-reliability tools</strong>, <strong>automations</strong>, resilient architectures, and solutions focused on <strong>database security and AI agent ecosystems</strong>.
