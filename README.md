@@ -44,11 +44,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leonardoglitch&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoglitch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardoglitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
